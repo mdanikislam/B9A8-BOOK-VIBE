@@ -1,0 +1,121 @@
+[
+    {
+      "bookId": 1,
+      "bookName": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/220703e5-c0d9-4b4e-a51b-c30808d24071.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+      "review": "A captivating portrayal of the Jazz Age, portraying the intricate web of love, wealth, and tragedy.",
+      "totalPages": 180,
+      "rating": 4.5,
+      "category": "Classic",
+      "tags": ["Romance", "Tragedy"],
+      "publisher": "Scribner",
+      "yearOfPublishing": 1925
+    },
+    {
+      "bookId": 2,
+      "bookName": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "image": "https://ew.com/thmb/VF6jG0phCVd7LrYc2dTm0DIEUGo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/to-kill-mockingbird_0-6246f05d04644ae5ba1a02409d943a13.jpg",
+      "review": "A poignant narrative that delves deep into issues of racism, morality, and innocence.",
+      "totalPages": 324,
+      "rating": 4.8,
+      "category": "Classic",
+      "tags": ["Social Justice", "Coming-of-Age"],
+      "publisher": "J.B. Lippincott & Co.",
+      "yearOfPublishing": 1960
+    },
+    {
+      "bookId": 3,
+      "bookName": "1984",
+      "author": "George Orwell",
+      "image": "https://bookshopapocalypse.com/cdn/shop/products/1984_new-3_300x300.png?v=1589012588",
+      "review": "A chilling depiction of a dystopian society, serving as a timeless warning against totalitarianism.",
+      "totalPages": 328,
+      "rating": 4.7,
+      "category": "Dystopian",
+      "tags": ["Political", "Science Fiction"],
+      "publisher": "Secker & Warburg",
+      "yearOfPublishing": 1949
+    },
+    {
+      "bookId": 4,
+      "bookName": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "image": "https://images.nymag.com/images/2/daily/2009/06/20090602_catcher_250x250.jpg",
+      "review": "A raw and honest portrayal of adolescent angst, resonating with readers across generations.",
+      "totalPages": 224,
+      "rating": 4.4,
+      "category": "Coming-of-Age",
+      "tags": ["Identity", "Alienation"],
+      "publisher": "Little, Brown and Company",
+      "yearOfPublishing": 1951
+    },
+    {
+      "bookId": 5,
+      "bookName": "The Hunger Games",
+      "author": "Suzanne Collins",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAJMfqGumQ7T_wT_3yTOhqWfLGcorALjr1Kv3hFM24Rg&s",
+      "review": "A gripping tale of survival, courage, and sacrifice, set in a dystopian world.",
+      "totalPages": 374,
+      "rating": 4.6,
+      "category": "Young Adult",
+      "tags": ["Adventure", "Dystopia"],
+      "publisher": "Scholastic Corporation",
+      "yearOfPublishing": 2008
+    },
+    {
+      "bookId": 6,
+      "bookName": "Harry Potter and the Philosopher's Stone",
+      "author": "J.K. Rowling",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLlc2zwUh0jNhQQYyISFpm-Yd2-Wtr-r5KyCczYwqg0w&s",
+      "review": "A magical journey into a world of wizards and wonder, enchanting readers of all ages.",
+      "totalPages": 320,
+      "rating": 4.9,
+      "category": "Fantasy",
+      "tags": ["Magic", "Adventure"],
+      "publisher": "Bloomsbury Publishing",
+      "yearOfPublishing": 1997
+    },
+
+    {
+      "bookId": 7,
+      "bookName": "The Girl on the Train",
+      "author": "Paula Hawkins",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3nKnPms4hRlAzUujbWbC3dLaU8Y40mf_NUcEDipirrKcafrYGMWatkjL7INISOjpp2qA",
+      "review": "A gripping psychological thriller that keeps you guessing until the very end.",
+      "totalPages": 336,
+      "rating": 4.1,
+      "category": "Mystery",
+      "tags": ["Suspense", "Psychological"],
+      "publisher": "Riverhead Books",
+      "yearOfPublishing": 2015
+    },
+    {
+      "bookId": 8,
+      "bookName": "Gone Girl",
+      "author": "Gillian Flynn",
+      "image": "https://m.media-amazon.com/images/I/51hGuNqsbwL._UX250_.jpg",
+      "review": "A twisted tale of love, deceit, and revenge that will keep you on the edge of your seat.",
+      "totalPages": 432,
+      "rating": 4.0,
+      "category": "Thriller",
+      "tags": ["Mystery", "Suspense", "Psychological"],
+      "publisher": "Crown Publishing Group",
+      "yearOfPublishing": 2012
+    },
+    {
+      "bookId": 9,
+      "bookName": "The Silent Patient",
+      "author": "Alex Michaelides",
+      "image": "https://m.media-amazon.com/images/I/81L0FgdzG6L._AC_UF350,350_QL80_.jpg",
+      "review": "An enthralling psychological mystery that will leave you guessing until the very end.",
+      "totalPages": 336,
+      "rating": 4.3,
+      "category": "Mystery",
+      "tags": ["Psychological", "Suspense"],
+      "publisher": "Celadon Books",
+      "yearOfPublishing": 2019
+    }
+  ]
+  

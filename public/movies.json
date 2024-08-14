@@ -1,0 +1,83 @@
+[
+{
+    "id": 1,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdBBemlO5N2dZBPrbpv_1N02uEGpmsy1X6EvxDkrhOiQ&s",
+    "title": "The Shawshank Redemption",
+    "year": 1994,
+    "genre": ["Drama"],
+    "director": "Frank Darabont",
+    "rating": 9.3
+  },
+  {
+    "id": 2,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgpNRMa8gi_ib7Rm4irbE2BYZ2vId7Rl0Bqpwt-IgFQQ&s",
+    "title": "The Godfather",
+    "year": 1972,
+    "genre": ["Crime", "Drama"],
+    "director": "Francis Ford Coppola",
+    "rating": 9.2
+  },
+  {
+    "id": 3,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBhLdcoJJHNna7U-QGCNxM7tJIqFeeJSPUfttdRer3Bw&s",
+    "title": "The Dark Knight",
+    "year": 2008,
+    "genre": ["Action", "Crime", "Drama"],
+    "director": "Christopher Nolan",
+    "rating": 9.0
+  },
+  {
+    "id": 4,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjIHiP0HWkObuHMC2B5MIwpKlUynMFuk5a9dQdeUxTTQ&s",
+    "title": "The Godfather: Part II",
+    "year": 1974,
+    "genre": ["Crime", "Drama"],
+    "director": "Francis Ford Coppola",
+    "rating": 9.0
+  },
+  {
+    "id": 5,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs-Olzkix-SjVP7ZW8gLBJqztAbKh5z--7bVtdvSWoWw&s",
+    "title": "12 Angry Men",
+    "year": 1957,
+    "genre": ["Drama"],
+    "director": "Sidney Lumet",
+    "rating": 8.9
+  },
+  {
+    "id": 6,
+    "image": "https://static.displate.com/270x380/displate/2020-05-26/39b651ab115c14b2859cc433ac50e909_1c159cf9dafdec75e82082b432003738.jpg",
+    "title": "Schindler's List",
+    "year": 1993,
+    "genre": ["Biography", "Drama", "History"],
+    "director": "Steven Spielberg",
+    "rating": 8.9
+  },
+  {
+    "id": 7,
+    "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1654216226i/61215384.jpg",
+    "title": "The Lord of the Rings: The Return of the King",
+    "year": 2003,
+    "genre": ["Action", "Adventure", "Drama"],
+    "director": "Peter Jackson",
+    "rating": 8.9
+  },
+  {
+    "id": 8,
+    "image": "https://i.pinimg.com/236x/18/93/d0/1893d0610a35617dd321d729bb1e203e.jpg",
+    "title": "Pulp Fiction",
+    "year": 1994,
+    "genre": ["Crime", "Drama"],
+    "director": "Quentin Tarantino",
+    "rating": 8.9
+  },
+  {
+    "id": 9,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrGUPzM97uve1Iqnxa0_jORi0F3GrAqLkrABKD8Zf0Wg&s",
+    "title": "The Good, the Bad and the Ugly",
+    "year": 1966,
+    "genre": ["Western"],
+    "director": "Sergio Leone",
+    "rating": 8.8
+  }
+]

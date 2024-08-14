@@ -1,0 +1,66 @@
+[
+    {
+      "id": 1,
+      "image": "https://media.istockphoto.com/id/171373727/photo/leather-journal.jpg?s=612x612&w=0&k=20&c=2htkWu2iyFBT-b082aA7Nj8Sk5jj09hoKJVYMLpyuuY=",
+      "description": "A beautifully crafted leather diary with intricate designs, perfect for jotting down your thoughts, dreams, and memories.",
+      "title": "Vintage Leather Diary",
+      "price": 25.99
+    },
+    {
+      "id": 2,
+      "image": "https://pyxis.nymag.com/v1/imgs/6f2/6de/34712e7a3af30f5ec1ee74829b778c2a72-moleskinplanner.rsquare.w600.png",
+      "description": "This diary features a sleek and modern design, with high-quality paper and a sturdy cover, ideal for organizing your daily schedule and goals.",
+      "title": "Minimalist Planner Diary",
+      "price": 19.99
+    },
+    {
+      "id": 3,
+      "image": "https://cdn.peddler.com/cdn-cgi/image/width=320,fit=contain,quality=85,format=auto/lokl/product/GuDvk_H-wNGD4t-ZyUcYO.jpg",
+      "description": "An eco-friendly diary made from recycled materials, featuring inspirational quotes and prompts to encourage mindfulness and reflection.",
+      "title": "Sustainable Journal",
+      "price": 29.99
+    },
+    {
+      "id": 4,
+      "image": "https://ds.rokomari.store/rokomari110/ProductNew20190903/260X372/22c3f21dc_207394.jpg",
+      "description": "A travel diary designed for adventurers, with waterproof pages and a durable cover to withstand any journey, capturing memories from around the world.",
+      "title": "Explorer's Notebook",
+      "price": 34.99
+    },
+    {
+      "id": 5,
+      "image": "https://i.thriftbooks.com/api/imagehandler/s/46ABB6DDC88DABACB685FF2DF9253DA951ED8899.jpeg",
+      "description": "A diary with a lock and key, providing privacy for your innermost thoughts and feelings, making it the perfect gift for someone special.",
+      "title": "Secret Keeper Diary",
+      "price": 27.99
+    },
+    {
+      "id": 6,
+      "image": "https://static.demilked.com/wp-content/uploads/2017/02/artist-sketchboooks-mini-art-galleries-thumb640.jpg",
+      "description": "This diary features beautiful illustrations and prompts for creative expression, inspiring you to unleash your imagination and creativity.",
+      "title": "Artistic Sketchbook",
+      "price": 21.99
+    },
+    {
+      "id": 7,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9suGc5JkEBgpQg2Y-Tlf9bprUxKK7a6hT7nWuGAQK3w&s",
+      "description": "A bullet journal diary with customizable sections and layouts, allowing you to track your habits, goals, and memories in a personalized way.",
+      "title": "Bullet Journal Planner",
+      "price": 23.99
+    },
+    {
+      "id": 8,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbFedj_bQvQS38X4m_2FRzm4rH-_CPKkjvkPv0yhgIyA&s",
+      "description": "A pocket-sized diary that fits seamlessly into your bag or pocket, featuring a convenient elastic closure and ribbon bookmark for easy use on the go.",
+      "title": "Compact Travel Diary",
+      "price": 16.99
+    },
+    {
+      "id": 9,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIVbmyRoiUKcCBJfIpXYOvc3SS1SY9ZrbYq-PfbjJWmQ&s",
+      "description": "A diary with guided prompts and exercises for self-reflection and personal growth, helping you to cultivate gratitude, mindfulness, and positivity.",
+      "title": "Reflective Journal",
+      "price": 31.99
+    }
+  ]
+  
